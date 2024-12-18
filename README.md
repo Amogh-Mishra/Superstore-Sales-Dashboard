@@ -2,7 +2,7 @@
 Incorporated data analysis techniques, specializing in time series analysis, to deliver valuable insights, accurate sales forecasting, and interactive dashboard creation, driving business success.
 
 ## Objectives:
-1. To identify the KPIs design a visually appealing dashboard and add interactive visualizations and filtering capabilities to allow users to explore the data.
+1. To identify the KPIs, design a visually appealing dashboard and add interactive visualizations and filtering capabilities to allow users to explore the data.
 2. Provide valuable insights to business entities.
 3. Apply time series analysis to generate sales forecast for future.
 
